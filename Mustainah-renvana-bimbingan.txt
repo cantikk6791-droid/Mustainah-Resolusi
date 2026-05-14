@@ -1,4 +1,5 @@
 RENCANA BIMBINGAN
 
 - ambil SK pembimbing
+   * di admin lalu minta TTD 
 - ambil katrol
