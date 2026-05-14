@@ -2,5 +2,9 @@ RENCANA BIMBINGAN
 
 - ambil SK pembimbing
    * di admin lalu minta TTD
+     ^ ambil sebelum admin istirahat/tutup
 - ketemu pembimbing 2
 - ambil katrol
+      ^ ambil sebelum admin istirahat/tutup
+- ikut seminar jika ada katrol untuk diisi
+      ^ kalo perlu bertanya di setiap seminar
