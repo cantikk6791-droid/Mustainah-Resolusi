@@ -7,3 +7,4 @@ RENCANA BIMBINGAN
 - ambil katrol
       ^ ambil sebelum admin istirahat/tutup
 - ikut seminar jika ada katrol untuk diisi
+      ^ kalo perlu bertanya di setiap seminar
